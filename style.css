@@ -1,5 +1,29 @@
-style{
+body{
     background-image: url(images/top-banner.png);
     background-repeat: no-repeat;
-    background-attachment: fixed;
+}
+h1{
+    padding-left: 90px;
+    padding-top: 30px;
+    font-family: 'Love Light', cursive;
+    font-family: 'Poppins', sans-serif; 
+    font-size: 50px;
+}
+.orange-color{
+    color: orange;
+}
+img{
+    width: 550px;
+    align-items: right;
+    padding-left: 700px;
+    
+}
+br{
+    padding-bottom: 100px;
+}
+span{
+    color: orange;
+}
+p bold{
+    padding-left: 90px;
 }
