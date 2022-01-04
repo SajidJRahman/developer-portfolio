@@ -3,20 +3,21 @@ body{
     background-repeat: no-repeat;
 }
 h1{
-    padding-left: 90px;
-    padding-top: 30px;
+    padding-left: 87px;
+    
     font-family: 'Love Light', cursive;
     font-family: 'Poppins', sans-serif; 
     font-size: 50px;
+    font-weight: bold;
 }
 .orange-color{
     color: orange;
 }
 img{
+    float: right;
     width: 550px;
-    align-items: right;
-    padding-left: 700px;
-    
+    padding-right: 70px;
+     
 }
 br{
     padding-bottom: 100px;
@@ -24,6 +25,22 @@ br{
 span{
     color: orange;
 }
-p bold{
+p{
     padding-left: 90px;
+    font-family: 'Love Light', cursive;
+    font-family: 'Poppins', sans-serif; 
+}
+.one-p{
+    font-size:20px;
+}
+a{
+    text-decoration: none;
+    padding: 10px 40px;
+    color: white;
+    background-image: linear-gradient(to right, lightsalmon, tomato);
+    margin: 90px;
+    border-radius: 5px;
+    font-family: 'Love Light', cursive;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 800;
 }
