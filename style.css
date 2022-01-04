@@ -4,14 +4,13 @@ body{
 }
 h1{
     padding-left: 87px;
-    
     font-family: 'Love Light', cursive;
     font-family: 'Poppins', sans-serif; 
     font-size: 50px;
     font-weight: bold;
 }
 .orange-color{
-    color: orange;
+    color: rgb(255, 133, 111);
 }
 img{
     float: right;
@@ -23,7 +22,7 @@ br{
     padding-bottom: 100px;
 }
 span{
-    color: orange;
+    color: rgb(255, 134, 99);
 }
 p{
     padding-left: 90px;
@@ -37,10 +36,73 @@ a{
     text-decoration: none;
     padding: 10px 40px;
     color: white;
-    background-image: linear-gradient(to right, lightsalmon, tomato);
+    background-image: linear-gradient(to right, rgb(255, 134, 99), rgb(255, 84, 72) );
     margin: 90px;
     border-radius: 5px;
     font-family: 'Love Light', cursive;
     font-family: 'Poppins', sans-serif;
     font-weight: 800;
+}
+.sajid-two{
+    float: left;
+    padding-left: 90px;
+}
+.div-two{
+    padding-top: 250px;
+
+}
+.diffrent-text{
+    font-size: 20px;
+    font-family: 'Love Light', cursive;
+    font-family: 'Poppins', sans-serif;
+}
+.one-more-link{
+    text-decoration: none;
+    padding: 10px 40px;
+    color: white;
+    background-image: linear-gradient(to left, rgb(255, 62, 152), rgb(255, 20, 129) );
+    border-radius: 5px;
+    font-family: 'Love Light', cursive;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 800;
+    margin: 0px;
+}
+.big{
+    color: rgb(255, 20, 129);
+}
+.div-two{
+    background-image: url(images/dream-bg.png);
+    background-position: right;
+    background-repeat: no-repeat;
+    
+}
+.third-header{
+    padding-top: 250px;
+    text-align: left;
+    padding-left: 87px;
+    font-family: 'Love Light', cursive;
+    font-family: 'Poppins', sans-serif; 
+    font-size: 50px;
+    font-weight: bold;
+}
+.forth-header{
+    
+    padding-left: 87px;
+    font-family: 'Love Light', cursive;
+    font-family: 'Poppins', sans-serif; 
+    font-size: 35px;
+    font-weight: bold;
+}
+.fifth-header{
+    
+    padding-right: 87px;
+    font-family: 'Love Light', cursive;
+    font-family: 'Poppins', sans-serif; 
+    font-size: 35px;
+    font-weight: bold;
+    padding-bottom: 0px;
+}
+.one-p-fifth{
+    
+    padding-right: 140px;
 }
