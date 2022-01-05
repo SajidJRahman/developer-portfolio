@@ -3,24 +3,26 @@ body{
     background-repeat: no-repeat;
 }
 h1{
-    padding-left: 87px;
+    
     font-family: 'Love Light', cursive;
     font-family: 'Poppins', sans-serif; 
     font-size: 50px;
     font-weight: bold;
 }
 p{
-    padding-left: 90px;
     font-family: 'Love Light', cursive;
-    font-family: 'Poppins', sans-serif; 
+    font-family: 'Poppins', sans-serif;
+    text-align: left;
 }
 .paraghaph{
     font-size:20px;
 }
+
+div{
+    display: inline-block;
+}
 .font-style{
-    font-size: 20px;
-    font-family: 'Love Light', cursive;
-    font-family: 'Poppins', sans-serif;
+    font-size: 16px;
 }
 img{
     float: right;
@@ -29,6 +31,7 @@ img{
 }
 .sajid-two{
     float: left;
+    width: 550px;
     padding-left: 90px;
 }
 span{
@@ -64,45 +67,69 @@ a{
     background-position: right;
     background-repeat: no-repeat;
 }
+.last-background{
+    background-image: url(images/exp-bg.png);
+    background-repeat: no-repeat;
+}
 .two{
-    padding-top: 200px;
+    padding-top: 100px;
+}
+.four{
+    display: inline-block;
+    float: right;
 }
 .third-header{
-    padding-top: 250px;
+
     text-align: left;
-    padding-left: 87px;
+    
     font-family: 'Love Light', cursive;
     font-family: 'Poppins', sans-serif; 
     font-size: 50px;
     font-weight: bold;
 }
 .forth-header{
-    padding-left: 87px;
+    
     font-family: 'Love Light', cursive;
     font-family: 'Poppins', sans-serif; 
     font-size: 35px;
     font-weight: bold;
     float: left;
 }
-p, .paraghaph-two{
-    padding-right: 140px;
-    text-align: left;
-    padding-left: 87px;
+.full-stack{
+    font-size: 40px;
 }
-.third-h1{
-    font-size: 30px;
+.baby-web{
+    font-size: 40px;
 }
 h2{
     text-align: left;
-    padding-left: 87px;
     font-family: 'Love Light', cursive;
-    font-family: 'Poppins', sans-serif;
-     
+    font-family: 'Poppins', sans-serif; 
 }
-.final-header{
-    float: right;
+.border-one{
+    border-radius: 15px;
+    border-left: 7px solid;
+    border-image: linear-gradient(to bottom, rgb(255, 134, 99), rgb(255, 84, 72));
+    border-image-slice: 1;
+    box-shadow: 5px 7px 40px gray;
+    height: 80%;
+    padding: 30px;
+    margin-left: 40px;
 }
-
-footer{
+#border-two{
+    border-left: 7px solid;
+    border-image: linear-gradient(to bottom, rgb(0, 0, 255), rgb(0, 183, 255));
+    border-image-slice: 1;
+    border-radius: 15px;
+    padding: 30px;
+    box-shadow: 5px 7px 40px gray;
+    height: 80%;
+    margin-left: 55px;
+}
+.footer{
+    margin-top: 160px;
     text-align: center;
+}
+.first-div{
+    margin-left: 85px;
 }
