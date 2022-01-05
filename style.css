@@ -9,28 +9,33 @@ h1{
     font-size: 50px;
     font-weight: bold;
 }
-.orange-color{
-    color: rgb(255, 133, 111);
-}
-img{
-    float: right;
-    width: 550px;
-    padding-right: 70px;
-     
-}
-br{
-    padding-bottom: 100px;
-}
-span{
-    color: rgb(255, 134, 99);
-}
 p{
     padding-left: 90px;
     font-family: 'Love Light', cursive;
     font-family: 'Poppins', sans-serif; 
 }
-.one-p{
+.paraghaph{
     font-size:20px;
+}
+.font-style{
+    font-size: 20px;
+    font-family: 'Love Light', cursive;
+    font-family: 'Poppins', sans-serif;
+}
+img{
+    float: right;
+    width: 550px;
+    padding-right: 70px;
+}
+.sajid-two{
+    float: left;
+    padding-left: 90px;
+}
+span{
+    color: rgb(255, 134, 99);
+}
+.big{
+    color: rgb(255, 20, 129);
 }
 a{
     text-decoration: none;
@@ -43,20 +48,7 @@ a{
     font-family: 'Poppins', sans-serif;
     font-weight: 800;
 }
-.sajid-two{
-    float: left;
-    padding-left: 90px;
-}
-.div-two{
-    padding-top: 250px;
-
-}
-.diffrent-text{
-    font-size: 20px;
-    font-family: 'Love Light', cursive;
-    font-family: 'Poppins', sans-serif;
-}
-.one-more-link{
+.link-two{
     text-decoration: none;
     padding: 10px 40px;
     color: white;
@@ -67,14 +59,13 @@ a{
     font-weight: 800;
     margin: 0px;
 }
-.big{
-    color: rgb(255, 20, 129);
-}
-.div-two{
+.two{
     background-image: url(images/dream-bg.png);
     background-position: right;
     background-repeat: no-repeat;
-    
+}
+.two{
+    padding-top: 200px;
 }
 .third-header{
     padding-top: 250px;
@@ -86,23 +77,32 @@ a{
     font-weight: bold;
 }
 .forth-header{
-    
     padding-left: 87px;
     font-family: 'Love Light', cursive;
     font-family: 'Poppins', sans-serif; 
     font-size: 35px;
     font-weight: bold;
+    float: left;
 }
-.fifth-header{
-    
-    padding-right: 87px;
-    font-family: 'Love Light', cursive;
-    font-family: 'Poppins', sans-serif; 
-    font-size: 35px;
-    font-weight: bold;
-    padding-bottom: 0px;
-}
-.one-p-fifth{
-    
+p, .paraghaph-two{
     padding-right: 140px;
+    text-align: left;
+    padding-left: 87px;
+}
+.third-h1{
+    font-size: 30px;
+}
+h2{
+    text-align: left;
+    padding-left: 87px;
+    font-family: 'Love Light', cursive;
+    font-family: 'Poppins', sans-serif;
+     
+}
+.final-header{
+    float: right;
+}
+
+footer{
+    text-align: center;
 }
